@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayuseiya02
-- 👀 I’m interested in classical and quantum computing and their applications to chemical research
+- 👀 I’m interested in quantum computing and its applications to medical research
 - 🌱 I’m currently learning MPI and Qiskit
 - 📫 How to reach me: ayuseiya02@gmail.com
 
